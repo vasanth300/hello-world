@@ -1,2 +1,4 @@
 # hello-world
-simple porgram to execute hello world
+<?php
+echo "HELLO WORLD <br>";
+?>
