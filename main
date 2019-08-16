@@ -2,3 +2,6 @@
 <?php
 echo "new world";
 ?>
+<?php
+echo "hello world 2";
+?>
