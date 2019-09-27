@@ -1,11 +1,5 @@
-# hello-world
-<?php
-echo "new world";
+<?php 
+echo "data has been changed";
+echo "error";
+echo "hello world";
 ?>
-<?php
-echo "hello world 2";
-echo "hello data";
-djbbeicjfkbecfkjckoicihneiecoijcoicjeoej
-?>
-jkcnvk jnkj
-jkhdkjd
